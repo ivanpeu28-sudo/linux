@@ -1,0 +1,46 @@
+MrPrincipal@HopeOfTheWorld:~/lekcja$ cat selected.txt command.txt      
+19                                                                                                                                                                                                                                              
+8                                                                                                                       
+345  mkdir lekcja                                                                                                       
+346  cd lekcja/                                                                                                         
+347  touch processes.txt                                                                                                
+348  ps aux                                                                                                             
+349  vim processes.txt                                                                                                  
+350  cp processes.txt copy.txt                                                                                          
+351  mkdir backup                                                                                                       
+352  mv copy.txt ./backup                                                                                               
+353  cd backup/                                                                                                         
+354  ls                                                                                                                 
+355  ..                                                                                                                 
+356  cd ..                                                                                                              
+357  vim processes.txt                                                                                                 
+358  touch selected.txt                                                                                                
+359  cat 19 selected.txt                                                                             
+360  cat selected.txt 19                                                                                      
+361  vim selected.txt                                                                                            
+362  grep /bin                                                                                                   
+363  grep bin                                                                                                     
+364  vim processes.txt                                                                                             
+365  grep root                                                                                                      
+366  ps                                                                                                              
+367  kill 795                                                                                                         
+368  ps                                                                                                              
+369  kill -9 795                                                                                                      
+370  ps                                                                                                               
+371  grep VSZ                                                                                                         
+372  grep -rni vsz                                                                                                    
+373  grep -rni /bin                                                                                                    
+374  vim selected.txt                                                                                                  
+375  cat 8 selected.txt                                                                                               
+376  echo 8 >> selected.txt                                                                                          
+377  cat selected.txt                                                                                                
+378  history                                                                                                            
+379  history | tail +23                                                                                                 
+380  history | tail                                                                                                     
+381  history | tail +2                                                                                                  
+382  history | tail-2                                                                                                   
+383  history | tail -2                                                                                                  
+384  history | tail -23                                                                                                 
+385  history | tail -30                                                                                                 
+386  history | tail -32                                                                                                 
+387  history | tail -43   
