@@ -16,3 +16,4 @@ MrPrincipal@HopeOfTheWorld:~$ history | tail -17 > commands.txt
   415  history | tail -16
   416  touch commands.txt
   417  history | tail -17 > commands.txt 
+MrPrincipal@HopeOfTheWorld:~$ cat selected.txt commands.txt
